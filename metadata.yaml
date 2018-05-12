@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '1619'
     url: http://www.gutenberg.org/2009/agents/1619
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36398#Ruth-Fielding-at-Silver-RanchSchoolgirls-Among-Cowboys
 gutenberg_issued: '2011-06-12'
 gutenberg_type: Text
 identifiers:
