@@ -1,0 +1,29 @@
+_repo: Ruth-Fielding-at-Silver-RanchSchoolgirls-Among-Cowboys_36398
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Emerson, Alice B.
+    gutenberg_agent_id: '1619'
+    url: http://www.gutenberg.org/2009/agents/1619
+description: ''
+gutenberg_issued: '2011-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36398'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Ranch life -- Juvenile fiction'
+- !lcsh 'Fielding, Ruth (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Grassland fires -- Juvenile fiction'
+- !lcsh 'Boarding school students -- Juvenile fiction'
+- !lcsh 'Vacations -- Juvenile fiction'
+- !lcsh 'Montana -- Juvenile fiction'
+title: Ruth Fielding at Silver Ranch; Or, Schoolgirls Among the Cowboys
+url: http://www.gutenberg.org/ebooks/36398
